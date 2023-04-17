@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zach
 
-I'm a systems analyst expanding my software development skills. Check out my progress over on my <a href="https://brownzaero.github.io" target="_blank"/>portfolio</a>.
+I'm a systems analyst expanding my software development skills. Check out my <a href="https://brownzaero.github.io" target="_blank"/>portfolio</a>!
 
 🔭 I’m currently working on an Automation & Efficiency Initiative at Beacon Health System where I'm developing VBA macro automations, Unix shell scripts, Windows batch scripts, and SQL reports to improve processes and efficiency for the Finance department.
 
