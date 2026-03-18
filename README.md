@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zach
 
-I'm a systems analyst at DICK'S Sporting Goods expanding my software development skills. Check out my <a href="https://brownzaero.github.io" target="_blank"/>portfolio</a>!
+I'm a Sr. Systems Specialist at DICK'S Sporting Goods expanding my Software Development, Product Management, and Agile/Scrum skills. Check out my <a href="https://brownzaero.github.io" target="_blank"/>portfolio</a>!
 
 🔭 Previously, I led an Automation & Efficiency Initiative at Beacon Health System where I developed VBA macro automations, Unix shell scripts, Windows batch scripts, and SQL reports to improve processes and efficiency for the Finance department.
 
